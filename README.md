@@ -18,7 +18,6 @@ This public storage repository exists solely to serve static image assets via di
 
 | File Name | Source | Timestamp |
 | :--- | :--- | :--- |
-| `dawson-dressed.webp` | Library_SMS_Attachments/c9/09/B0C326BA-F17D-4DE1-98CE-A3A5D419839E_FullSizeRender.heic | Mobile Forensic Report |
 | `cora-doctors.webp` | Library_SMS_Attachments/e8/08/6C4F2ECF-FE60-4F26-989F-920D8CF01045/IMG_5788.HEIC | Mobile Forensic Report |
 | `dawson-cora-snowman` | Library_SMS_Attachments/ec/12/F19B6DC0-361E-4E71-B721-CE8CAB2A2BA5/IMG_5793.HEIC | Mobile Forensic Report |
 
