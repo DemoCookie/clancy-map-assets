@@ -9,8 +9,8 @@ This repository hosts the optimized media assets (forensic screenshots and locat
 This public storage repository exists solely to serve static image assets via direct CDN links to the interactive mapping application (**uMap**).
 
 * **Project Title:** Lindsay Clancy's iPhone: Geographic Logs Only
-* **Scope:** Physical/logical extraction subset focusing strictly on spatial-temporal data (GPS coordinates, location services, and associated system activity timestamps).
-* **Asset Limit:** Contains a restricted selection of high-relevance evidence extractions (maximum 3 core visual exhibits) referenced directly in the geographic analysis.
+* **Scope:** Physical/logical extraction subset focusing strictly on spatial-temporal data (GPS coordinates, location services, and associated system activity timestamps or pictures).
+* **Asset Limit:** Contains a restricted selection of high-relevance evidence extractions referenced directly in the geographic analysis.
 
 ---
 
@@ -18,8 +18,9 @@ This public storage repository exists solely to serve static image assets via di
 
 | File Name | Source | Timestamp |
 | :--- | :--- | :--- |
-| `cora-doctors.webp` | Library_SMS_Attachments/e8/08/6C4F2ECF-FE60-4F26-989F-920D8CF01045/IMG_5788.HEIC | Mobile Forensic Report |
-| `dawson-cora-snowman` | Library_SMS_Attachments/ec/12/F19B6DC0-361E-4E71-B721-CE8CAB2A2BA5/IMG_5793.HEIC | Mobile Forensic Report |
+| `cora-doctors.webp` | iPhone/mobile/Media/DCIM/105APPLE/IMG_5788.HEIC | 08:18:25 |
+| `cora-snowman.webp` | iPhone/mobile/Media/DCIM/105APPLE/IMG_5790.HEIC | 11:28:27 |
+| `dawson-cora-snowman.webp` | iPhone/mobile/Media/DCIM/105APPLE/IMG_5793.HEIC | 11:41:36 |
 
 ---
 
